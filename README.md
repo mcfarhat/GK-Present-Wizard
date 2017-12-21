@@ -34,9 +34,10 @@ If you would like some custom work done, or have an idea for a plugin you're rea
 1. Upload the plugin files to the `/wp-content/plugins/GK-Present-Wizard` directory, or install the plugin through the WordPress plugins screen directly.
 2. Make sure you have both woocommerce and facebookall plugins installed and active.
 3. Activate the plugin through the 'Plugins' screen in WordPress
-4. Customize your woocommerce products by adding meta_data relevant to the 'gender' and 'age', as this data will be utilize in generating the end result.
-5. That's it! Your front end screen will turn into the relevant interface.
-6. You can then customize the look and feel of your screen as you please via simple CSS customizations
+4. Customize your woocommerce products by adding meta_data relevant to the 'gender' and 'age', as this data will be utilize in generating the end result. You can also add 'country' data a well now.
+5. Create a new page to host your wizard (one of more pages)
+6. Make sure to select the "Game Template" for this page so as the wizard will run on it for the front end.
+7. That's it.. Game on!
 
 == Changelog ==
 
